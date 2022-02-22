@@ -2,7 +2,6 @@ dictionary = {}
 
 end = False
 
-
 while(end == False):
     print(" What do you want to do?\n1-add new definition\n2-search for definition\n3-delete definition\n4-break")
     choice = int(input())
