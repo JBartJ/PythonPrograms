@@ -12,4 +12,4 @@ A program that will allow the user:
 A program that will alow the user:
 1) Choose the 2D shape
 2) Choose what to calculate
-3) Change the choosen shape
+3) Change the chosen shape
